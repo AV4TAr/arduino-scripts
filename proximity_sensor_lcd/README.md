@@ -1,4 +1,4 @@
-# Proximity Sensor
+# Proximity Sensor with a LCD display
 
 ## Materials
 
@@ -9,7 +9,8 @@
   - Hookup Wires
 
 ## Objective
-Start using a HC-SR04 to meassure distances. Will display the data in the serial monitor
+Display the proximity sensor data on a LCD screen.
+
  
 ## Diagram
 ![Foo](diagram.png)
