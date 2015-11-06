@@ -11,3 +11,5 @@
 ## Description
 
  
+## Diagram
+![Foo](diagram.png)
